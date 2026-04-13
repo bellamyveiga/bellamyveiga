@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD1C1B&height=120&section=header"/>
 
-# Hi 👋, I'm Herbert Souza
+# Oi, eu sou o Bellamy da Veiga!
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+💻 **Cientista de Dados Junior | Python & SQL**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
