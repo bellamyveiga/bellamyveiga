@@ -5,10 +5,7 @@
 💻 **Cientista de Dados Junior | Python & SQL**  
 🌐 **Graduando em Ciências Sociais pela UFRJ**
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Combinando a sensibilidade das Ciências Sociais com a precisão da Ciência de Dados para otimizar processos de Vendas de Alta Performance.
 
 ---
 
