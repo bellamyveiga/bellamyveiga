@@ -2,8 +2,8 @@
 
 # Oi, eu sou o Bellamy da Veiga!
 
-💻 Cientista de Dados | Júnior - EBAC
+💻 Ciência de Dados | Júnior - EBAC
 
-🌐 Cientista Social | Graduando - UFRJ
+🌐 Ciências Sociais | Universidade Federal do Rio de Janeiro
 
 ## Linguagens:
