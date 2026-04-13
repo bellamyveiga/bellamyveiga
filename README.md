@@ -3,6 +3,7 @@
 # Oi, eu sou o Bellamy da Veiga!
 
 💻 **Ciência de Dados | Júnior | Python & SQL**
+
 🌐 **Ciências Sociais | Universidade Federal do Rio de Janeiro**
 
 ## Linguagens:
