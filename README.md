@@ -3,3 +3,5 @@
 ## Oi, eu sou o Bellamy da Veiga!
 
 💻 Cientista de Dados | Júnior
+
+# Linguagens:
