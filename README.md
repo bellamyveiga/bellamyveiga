@@ -15,7 +15,7 @@ Atualmente, atuo como vendedor focado em conversão, utilizando o Método SPIN p
 
 <p align="left">
   <a href="https://instagram.com/bellamy.veiga">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
