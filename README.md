@@ -11,7 +11,7 @@ Atualmente, atuo como vendedor focado em conversão, utilizando o Método SPIN p
 
 ---
 
-## 🌐 Where to find me
+## Redes Sociais
 
 <p align="left">
   <a href="https://instagram.com/bellamy.veiga">
